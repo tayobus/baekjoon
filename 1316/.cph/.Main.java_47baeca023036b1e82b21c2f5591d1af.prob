@@ -1,0 +1,1 @@
+{"name":"Local: Main","url":"/Users/chaebeomsu/myprojects/baekjoon/1316/Main.java","tests":[{"id":1745463489170,"input":"3\nhappy\nnew\nyear","output":"3"},{"id":1745463503393,"input":"4\naba\nabab\nabcabc\na","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/chaebeomsu/myprojects/baekjoon/1316/Main.java","group":"local","local":true}
