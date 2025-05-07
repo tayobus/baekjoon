@@ -1,0 +1,1 @@
+{"name":"Local: Main","url":"/Users/chaebeomsu/myprojects/baekjoon/10101/Main.java","tests":[{"id":1746420336409,"input":"60\n70\n50","output":"Scalene"},{"id":1746420351045,"input":"33\n24\n11","output":"Error"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/chaebeomsu/myprojects/baekjoon/10101/Main.java","group":"local","local":true}
