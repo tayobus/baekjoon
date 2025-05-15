@@ -43,6 +43,7 @@ public class Main {
         
         
         System.out.print(sb);
+        br.close();
     }
 }
 EOF
