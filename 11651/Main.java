@@ -16,10 +16,10 @@ public class Main {
         
         // 정렬: x좌표 기준 오름차순, x좌표가 같으면 y좌표 기준 오름차순
         Arrays.sort(points, (a, b) -> {
-            if (a[0] == b[0]) {
-                return Integer.compare(a[1], b[1]);
-            } else {
+            if (a[1] == b[1]) {
                 return Integer.compare(a[0], b[0]);
+            } else {
+                return Integer.compare(a[1], b[1]);
             }
         });
         

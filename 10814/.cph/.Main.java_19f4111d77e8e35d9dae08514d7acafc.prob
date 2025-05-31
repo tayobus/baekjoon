@@ -1,0 +1,1 @@
+{"name":"Local: Main","url":"/Users/chaebeomsu/myprojects/baekjoon/10814/Main.java","tests":[{"id":1746865790940,"input":"3\n21 Junkyu\n21 Dohyun\n20 Sunyoung","output":"20 Sunyoung\n21 Junkyu\n21 Dohyun"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/chaebeomsu/myprojects/baekjoon/10814/Main.java","group":"local","local":true}

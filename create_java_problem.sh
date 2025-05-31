@@ -36,14 +36,14 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
+    static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringBuilder sb = new StringBuilder();
-        
-        
-        
-        System.out.print(sb);
-        br.close();
+
+
+
+        bw.flush();
+        bw.close();
     }
 }
 EOF
@@ -51,4 +51,4 @@ EOF
 echo "자바 문제 $problem_number 디렉토리와 Main.java 파일이 생성되었습니다."
 
 # VS Code로 파일 열기
-code "$problem_number/Main.java"
+code -n -g "$problem_number/Main.java:9:9"
